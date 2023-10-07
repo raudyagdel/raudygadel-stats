@@ -17,4 +17,4 @@ Summary Stats
 ***GitHub Stats***
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raudyagdel&show_icons=true&locale=en&theme=swift"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raudyagdel&show_icons=true&locale=en&theme=swift&line_height=40"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raudyagdel"/>
